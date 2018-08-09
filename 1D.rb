@@ -12,7 +12,7 @@ one_direction = {
 
 one_direction.each do [name, age]
 
- puts one_direction
+ puts one_direction[" #{name} is #{age} years old"]
 
 end
 
