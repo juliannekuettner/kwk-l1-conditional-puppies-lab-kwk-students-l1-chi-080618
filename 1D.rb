@@ -9,4 +9,5 @@ one_direction = {"Zayne" => 25,
 #Zayn is 25 years old 
 #Liam is 24 years old 
 
-#Level 2 How can you get the average 
+#Level 2 How can you get the average age of the members of 1D?
+
