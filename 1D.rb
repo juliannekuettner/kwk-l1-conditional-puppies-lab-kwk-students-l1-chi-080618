@@ -10,9 +10,9 @@ one_direction = {
 #Zayn is 25 years old 
 #Liam is 24 years old 
 
-one_direction.each do [name, age]
+one_direction.each do |name, age|
 
- puts one_direction[" #{name} is #{age} years old"]
+ puts name, age
 
 end
 
